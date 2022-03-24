@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "353498352062",
+    "firebase_url": "https://myplants-6ce39.firebaseio.com",
+    "project_id": "myplants-6ce39",
+    "storage_bucket": "myplants-6ce39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353498352062:android:98748e4a7a8a71886791ef",
+        "android_client_info": {
+          "package_name": "com.example.myplants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353498352062-eoa5b6qumvuvncqifqmarm1nvtjb771l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRwVHM4-pBBYbz7ZPPGD6KEOU7YlaUFlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353498352062-eoa5b6qumvuvncqifqmarm1nvtjb771l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
